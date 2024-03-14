@@ -1,4 +1,4 @@
-_G.Version = "Version: 2.2.4"
+_G.Version = "Version: 4.0.0"
 
 if getgenv().AntiLag then
 	local renderStepped = game:GetService("RunService").RenderStepped
